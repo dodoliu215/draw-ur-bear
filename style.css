@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(BG.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+}
+
+canvas {
+  display: block;
+}
+
+#canvasForHTML {
+  background-image: url(BG.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+}
+
+.mySlider {
+  width: 300px;
+  cursor: pointer;
+}
